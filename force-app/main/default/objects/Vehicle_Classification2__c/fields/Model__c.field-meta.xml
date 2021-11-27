@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Model__c</fullName>
+    <externalId>false</externalId>
+    <label>Model</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Allion</fullName>
+                <default>false</default>
+                <label>Allion</label>
+            </value>
+            <value>
+                <fullName>MX-5</fullName>
+                <default>false</default>
+                <label>MX-5</label>
+            </value>
+            <value>
+                <fullName>MX-6</fullName>
+                <default>false</default>
+                <label>MX-6</label>
+            </value>
+            <value>
+                <fullName>Focus</fullName>
+                <default>false</default>
+                <label>Focus</label>
+            </value>
+            <value>
+                <fullName>Territory</fullName>
+                <default>false</default>
+                <label>Territory</label>
+            </value>
+            <value>
+                <fullName>Camry</fullName>
+                <default>false</default>
+                <label>Camry</label>
+            </value>
+            <value>
+                <fullName>Tesla One</fullName>
+                <default>false</default>
+                <label>Tesla One</label>
+            </value>
+            <value>
+                <fullName>Tesla 2</fullName>
+                <default>false</default>
+                <label>Tesla 2</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

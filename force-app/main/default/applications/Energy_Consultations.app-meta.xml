@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#FA8B05</headerColor>
+        <logo>GPS</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Track energy audits and product recommendations</description>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Energy Consultations</label>
+    <navType>Standard</navType>
+    <profileActionOverrides>
+        <actionName>Tab</actionName>
+        <content>New_Home_Page</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>standard-home</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>Tab</actionName>
+        <content>Sales_Home</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>standard-home</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Custom: Sales Profile</profile>
+    </profileActionOverrides>
+    <tabs>standard-home</tabs>
+    <tabs>standard-Feed</tabs>
+    <tabs>standard-CollaborationGroup</tabs>
+    <tabs>Energy_Audit__c</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Product2</tabs>
+    <tabs>standard-Task</tabs>
+    <tabs>Project__c</tabs>
+    <tabs>Suggestion__c</tabs>
+    <tabs>Battle_Station__c</tabs>
+    <tabs>Resource__c</tabs>
+    <tabs>Supply__c</tabs>
+    <tabs>VisualforcePage_HelloWorld</tabs>
+    <tabs>Precinct__c</tabs>
+    <tabs>Voter__c</tabs>
+    <tabs>Voter_Donation__c</tabs>
+    <tabs>Vehicle_Classification__c</tabs>
+    <tabs>Vehicle_Make__c</tabs>
+    <tabs>Vehicle_Model__c</tabs>
+    <tabs>Job_Posting__c</tabs>
+    <tabs>Specialisation__c</tabs>
+    <tabs>TestNew__c</tabs>
+    <tabs>Language_Course_Instructor__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Energy_Consultations_UtilityBar</utilityBar>
+</CustomApplication>

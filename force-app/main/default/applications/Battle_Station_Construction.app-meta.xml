@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Battle Station Construction</label>
+    <navType>Standard</navType>
+    <profileActionOverrides>
+        <actionName>Tab</actionName>
+        <content>New_Home_Page</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>standard-home</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>Tab</actionName>
+        <content>Sales_Home</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>standard-home</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Custom: Sales Profile</profile>
+    </profileActionOverrides>
+    <tabs>Battle_Station__c</tabs>
+    <tabs>Top_Accounts_and_Opportunities</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>Resource__c</tabs>
+    <tabs>Supply__c</tabs>
+    <tabs>VisualforcePage_HelloWorld</tabs>
+    <tabs>Precinct__c</tabs>
+    <tabs>Voter__c</tabs>
+    <tabs>Voter_Donation__c</tabs>
+    <tabs>Vehicle_Classification__c</tabs>
+    <tabs>Vehicle_Make__c</tabs>
+    <tabs>Vehicle_Model__c</tabs>
+    <tabs>Job_Posting__c</tabs>
+    <tabs>Specialisation__c</tabs>
+    <tabs>TestNew__c</tabs>
+    <tabs>Language_Course_Instructor__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Battle_Station_Construction_UtilityBar</utilityBar>
+</CustomApplication>

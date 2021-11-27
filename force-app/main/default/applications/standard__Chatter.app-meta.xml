@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-UserProfile</tabs>
+    <tabs>standard-OtherUserProfile</tabs>
+    <tabs>standard-CollaborationGroup</tabs>
+    <tabs>standard-File</tabs>
+    <tabs>Candidate__c</tabs>
+    <tabs>Job_Application__c</tabs>
+    <tabs>Employment_Website__c</tabs>
+    <tabs>Property__c</tabs>
+    <tabs>Offer__c</tabs>
+    <tabs>Favorite__c</tabs>
+    <tabs>Project__c</tabs>
+    <tabs>Suggestion__c</tabs>
+    <tabs>Battle_Station__c</tabs>
+    <tabs>Resource__c</tabs>
+    <tabs>Supply__c</tabs>
+    <tabs>VisualforcePage_HelloWorld</tabs>
+    <tabs>Precinct__c</tabs>
+    <tabs>Voter__c</tabs>
+    <tabs>Voter_Donation__c</tabs>
+    <tabs>Vehicle_Classification__c</tabs>
+    <tabs>Vehicle_Make__c</tabs>
+    <tabs>Vehicle_Model__c</tabs>
+    <tabs>Job_Posting__c</tabs>
+    <tabs>Specialisation__c</tabs>
+    <tabs>TestNew__c</tabs>
+    <tabs>Language_Course_Instructor__c</tabs>
+</CustomApplication>
